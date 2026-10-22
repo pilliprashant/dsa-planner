@@ -1,4 +1,4 @@
-const API_URL = "https://dsa-planner-api.onrender.com/";
+const API_URL = "https://dsa-planner-api.onrender.com";
 
 // ===============================
 // TOKEN
