@@ -1,5 +1,5 @@
 import { PieChart as PieChartIcon } from "lucide-react";
-import ChartCard from "./ChartCard";
+import ChartCard from "./chartCard";
 
 import {
   ResponsiveContainer,

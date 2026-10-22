@@ -1,5 +1,5 @@
 import { useApp } from "../../context/AppContext";
-import ActivityItem from "./activityitem";
+import ActivityItem from "./activityItem";
 
 function RecentActivity() {
   const { questions } = useApp();

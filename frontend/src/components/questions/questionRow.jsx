@@ -6,7 +6,7 @@ import {
 } from "lucide-react";
 
 import DifficultyBadge from "./difficultyBadge";
-import PlatformBadge from "./platformBadge";
+import PlatformBadge from "./platFormBadge";
 
 function QuestionRow({
   question,
