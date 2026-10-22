@@ -1,4 +1,4 @@
-import Question from "../models/Question.js";
+import Question from "../models/question.js";
 import UserProgress from "../models/userProgress.js";
 import User from "../models/user.js";
 
