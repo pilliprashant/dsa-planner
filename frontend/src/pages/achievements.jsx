@@ -1,4 +1,4 @@
-import AchievementsHeader from "../components/achievements/AchievementsHeader";
+import AchievementsHeader from "../components/achievements/achievementsHeader";
 import BadgeProgress from "../components/achievements/BadgeProgress";
 import BadgeCard from "../components/achievements/BadgeCard";
 
